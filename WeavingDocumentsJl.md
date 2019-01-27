@@ -1,6 +1,7 @@
 ---
 title: Weaving Markdown Documents with Julia
 author: Pedro Henrique Pereira Braga
+mail: ph.pereirabraga@gmail.com
 date: January 26th, 2019
 ---
 
@@ -9,9 +10,9 @@ date: January 26th, 2019
 > some of the analyses related to my doctorate thesis. When learning new `R`
 > routines and functions, I have always found it easier to write `RMarkdown`
 > documents and tutorials as a way of learning. Do not hesitate to give your
-> feedback or your contributions to this document.
->> With regards,
->> [Pedro Henrique Braga](https://github.com/pedrohbraga).
+> feedback or your contributions to this document. Enjoy!
+>> Best regards,
+>>> [Pedro H. P. Braga](https://github.com/pedrohbraga)
 
 
 # Introduction
@@ -19,13 +20,11 @@ date: January 26th, 2019
 This document gives a brief illustration on how to create a scientific report
 document using [Julia](http://julialang.org/) and its
 [Weave.jl](https://github.com/mpastell/Weave.jl) package. The `Weave.jl` package
-was built by [Matti
-Pastell](https://github.com/mpastell/),
-and it allows the "writing of text, mathematics and code in a single document which
-can be run capturing results into a rich report". Visit `Weave.jl`'s
+was built by [Matti Pastell](https://github.com/mpastell/), and it allows the
+"writing of text, mathematics and code in a single document which can be run
+capturing results into a rich report". Visit `Weave.jl`'s
 [documentation](http://weavejl.mpastell.com/) and
-[publication](http://dx.doi.org/10.21105/joss.00204)
-for further information.
+[publication](http://dx.doi.org/10.21105/joss.00204) for further information.
 
 
 For this, you will need to install the `Weave.jl` package:
@@ -311,12 +310,15 @@ cd("C:\\Users\\phper\\Documents\\GitHub\\pedrohbraga\\WeavingDocumentsInJulia")
 
 Read the `Weave.jl` [documentation](http://mpastell.github.io/Weave.jl/stable/)
 
-Read the `julia` [Markdown documentation](https://docs.julialang.org/en/v1/stdlib/Markdown/)
+Read the `julia` [Markdown
+documentation](https://docs.julialang.org/en/v1/stdlib/Markdown/)
 
 #### References
 
-1. Pastell, Matti. 2017. Weave.jl: Scientific Reports Using Julia. The Journal of Open Source Software. http://dx.doi.org/10.21105/joss.00204
-
-2. Bezanson, Jeff, Alan Edelman, Stefan Karpinski, and Viral B. Shah. 2017. “Julia: A Fresh Approach to Numerical Computing.” SIAM Review 59 (1): 65–98. doi:10.1137/141000671.
-
-3. Xie, Yihui. 2015. Dynamic Documents with R and Knitr. 2nd ed. Boca Raton, Florida: Chapman; Hall/CRC. http://yihui.name/knitr/.
+1. Pastell, Matti. 2017. Weave.jl: Scientific Reports Using Julia. The Journal
+of Open Source Software. http://dx.doi.org/10.21105/joss.00204
+2. Bezanson, Jeff, Alan Edelman, Stefan Karpinski, and Viral B. Shah. 2017.
+“Julia: A Fresh Approach to Numerical Computing.” SIAM Review 59 (1): 65–98.
+doi:10.1137/141000671.
+3. Xie, Yihui. 2015. Dynamic Documents with R and Knitr. 2nd ed. Boca Raton,
+Florida: Chapman; Hall/CRC. http://yihui.name/knitr/.
