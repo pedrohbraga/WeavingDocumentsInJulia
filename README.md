@@ -12,7 +12,7 @@ Best regards,
 
 ## Content
 
-**Access this tutorial** here: [https://pedrohbraga.github.io/WeavingDocumentsInJulia/WeavingDocumentsJl.html](https://pedrohbraga.github.io/WeavingDocumentsInJulia/WeavingDocumentsJl.html)
+**Access this tutorial** here: [https://pedrohbraga.github.io/WeavingMarkdownDocuments-in-Julia/WeavingDocumentsJl.html](https://pedrohbraga.github.io/WeavingMarkdownDocuments-in-Julia/WeavingDocumentsJl.html)
 
 This document gives a brief illustration on how to create a scientific report document using [Julia](http://julialang.org/) and its
 [Weave.jl](https://github.com/mpastell/Weave.jl) package. The `Weave.jl` package was built by [Matti Pastell](https://github.com/mpastell/), and it allows the "writing of text, mathematics and code in a single document which can be run capturing results into a rich report". 
