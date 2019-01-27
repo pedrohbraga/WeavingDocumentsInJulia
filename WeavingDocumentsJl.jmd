@@ -288,10 +288,6 @@ documentation](https://docs.julialang.org/en/v1/stdlib/Markdown/)
 
 #### References
 
-1. Pastell, Matti. 2017. Weave.jl: Scientific Reports Using Julia. The Journal
-of Open Source Software. http://dx.doi.org/10.21105/joss.00204
-2. Bezanson, Jeff, Alan Edelman, Stefan Karpinski, and Viral B. Shah. 2017.
-“Julia: A Fresh Approach to Numerical Computing.” SIAM Review 59 (1): 65–98.
-doi:10.1137/141000671.
-3. Xie, Yihui. 2015. Dynamic Documents with R and Knitr. 2nd ed. Boca Raton,
-Florida: Chapman; Hall/CRC. http://yihui.name/knitr/.
+1. Pastell, Matti. 2017. Weave.jl: Scientific Reports Using Julia. The Journal of Open Source Software. http://dx.doi.org/10.21105/joss.00204
+2. Bezanson, Jeff, Alan Edelman, Stefan Karpinski, and Viral B. Shah. 2017. “Julia: A Fresh Approach to Numerical Computing.” SIAM Review 59 (1): 65–98. doi:10.1137/141000671.
+3. Xie, Yihui. 2015. Dynamic Documents with R and Knitr. 2nd ed. Boca Raton, Florida: Chapman; Hall/CRC. http://yihui.name/knitr/.
